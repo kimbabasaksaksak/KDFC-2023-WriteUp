@@ -7,13 +7,13 @@ This repo is aimed to compile all KDFS-2023's write-ups as a first-place winner 
   
 # Kimbabasaksaksak
 **Jaeheon Kim**
-- tbu
+- linkedin : https://www.linkedin.com/in/%EC%9E%AC%ED%97%8C-%EA%B9%80-a74570215?originalSubdomain=kr
 
 **Donghyun Kim**
-- tbu
+- linkedin : https://www.linkedin.com/in/donghyun-kim-80b637201/
 
 **Soyoung Yoo**
-- tbu
+- github : https://github.com/wka99
 
 **Minhee Lee**
 - X(twitter) : @darb0ng
