@@ -1,6 +1,5 @@
 # KIISC Digital Forensics Challenge 2023
-Digital Forensics Challenge hosted by Korea Institute of Information Security & Cryptology (KIISC) aims to expand knowledge of digital forensics and contribute to the field.
-- https://dfchallenge.org/
+[Digital Forensics Challenge](https://dfchallenge.org/) hosted by Korea Institute of Information Security & Cryptology (KIISC) aims to expand knowledge of digital forensics and contribute to the field.
 
 This repo is aimed to compile all DFC-2023's write-ups as a first-place winner and to share our skills in digital forensics.
 
