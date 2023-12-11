@@ -14,7 +14,7 @@ This repo is aimed to compile all DFC-2023's write-ups as a first-place winner a
 The contents of this repository cannot be reproduced without prior permission of authors below.
 - [Jaeheon Kim](https://www.linkedin.com/in/%EC%9E%AC%ED%97%8C-%EA%B9%80-a74570215?originalSubdomain=kr)
 
-- [Donghyun Kim](https://www.linkedin.com/in/donghyun-kim-80b637201/)[README.md](https://github.com/kimbabasaksaksak/KDFC-2023-WriteUp/files/13631492/README.md)
+- [Donghyun Kim](https://www.linkedin.com/in/donghyun-kim-80b637201/)
 
 
 - [Soyoung Yoo](https://github.com/wka99)
