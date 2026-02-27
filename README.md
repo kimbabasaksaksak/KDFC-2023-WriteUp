@@ -17,7 +17,7 @@ The contents of this repository cannot be reproduced without prior permission of
 - [Donghyun Kim](https://www.linkedin.com/in/donghyun-kim-80b637201/)
 
 
-- [Soyoung Yoo](https://github.com/wka99)
+- [Soyoung Yoo](www.linkedin.com/in/soyoung-yoo-110b23272)
 
 - [Minhee Lee](https://twitter.com/darb0ng)
 
